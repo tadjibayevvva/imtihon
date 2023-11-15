@@ -1,0 +1,175 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #ff9daa;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.header {
+    width: 400px;
+    height: 650px;
+    background-color: #fff;
+    border-radius: 40px;
+    box-shadow: 5px 5px #bf7982;
+    position: absolute;
+    margin-top: 50px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+}
+
+.img-chumoli {
+    background-image: url(./image/photo-1545703549-7bdb1d01b734.jpg);
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+}
+
+.header-back-img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-color: #fff;
+    transform: translateY(100%);
+    border: solid 5px #fff;
+    margin-top: -75px;
+    margin-left: 0px;
+
+    -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+}
+
+
+
+.footer {
+    width: 400px;
+    /* height: 400px; */
+    border: solid 6px #fff;
+    margin-top: 5px;
+}
+
+.footer-text {
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 700;
+    margin-top: 18px;
+    color: #464848;
+
+}
+
+.footer-p {
+    text-align: center;
+    color: #c1c1c1;
+    font-weight: 200;
+    margin-top: 5px;
+    font-family: Montserrat, sans-serif;
+}
+
+.footer-right-left {
+    display: flex;
+    width: 400px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    color: #b5b5b5;
+}
+
+.onf {
+    color: #11a0fb;
+    text-align: center;
+    width: 190px;
+    border: solid 6px #fff;
+    font-size: 30px;
+    margin-left: 4px;
+    margin-top: 15px;
+
+}
+
+.followers {
+    text-align: center;
+    margin-top: 2px;
+    color: #b5b5b5;
+    font-family: Montserrat, sans-serif;
+    
+}
+
+.uch-nuqta {
+    margin-top: -70px;
+    margin-left: 225px;
+}
+
+.footer-button {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #fed01a;
+    border: 5px solid #fed01a;
+    cursor: pointer;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    border: none;
+    padding: 16px 140px;
+    margin: 4px 17px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    margin-top: 0px;
+    width: 82%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.last-p {
+    margin-left: 140px;
+    color: #555150;
+    font-weight: 200;
+    margin-top: 5px;
+    font-family: Montserrat, sans-serif;
+    margin-left: 40px;
+}
+
+.uch-nuqta {
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+    margin-right: 10px;
+}
